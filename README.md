@@ -1,12 +1,12 @@
 <div align='center'>
 <img src="./public/icon-512x512.png" width="50px"></h1>
 <br/> <br/>
-<h1>WillCode - Contato</h1> 
+<h1>WillCode - Projetos</h1> 
 </div>
 
 ## Descrição
 
-### "Descubra a magia das rotas dinâmicas do Next.js 13.4! 💫✨ Utilizando minha própria API personalizada para listar todos os meus projetos, consegui criar facilmente diversas rotas estáticas para o meu site. É incrível como essa abordagem simplifica a navegação e melhora a experiência do usuário. Agora, meus visitantes podem explorar meus projetos de forma fluida e interativa!
+### Descubra a magia das rotas dinâmicas do Next.js 13.4! 💫✨ Utilizando minha própria API personalizada para listar todos os meus projetos, consegui criar facilmente diversas rotas estáticas para o meu site. É incrível como essa abordagem simplifica a navegação e melhora a experiência do usuário. Agora, meus visitantes podem explorar meus projetos de forma fluida e interativa!
 
 ### O Next.js 13.4 oferece uma variedade de recursos poderosos que tornam a criação de sites dinâmicos uma experiência empolgante. Com as rotas dinâmicas, posso construir páginas personalizadas para cada projeto com facilidade, tudo isso mantendo a velocidade e o desempenho do site.
 
